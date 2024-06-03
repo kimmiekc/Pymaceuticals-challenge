@@ -2,8 +2,8 @@
 Challenge 5. Matplotlib
 
 ## Note:
-Completed code is located "pymaceuticals_complete.ipynb"
-Summary analysis is located at the top of the code in "pymaceuticals_complete.ipynb"
+Completed code is located "pymaceuticals_complete.ipynb" <br>
+Summary analysis is located at the top of the code in "pymaceuticals_complete.ipynb" <br>
 CSV Files are located in "Pymaceuticals-challenge\data"
 
 ## Background
